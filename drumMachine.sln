@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "drumMachine", "drumMachine\drumMachine.pyproj", "{CF1700F6-2BEF-4864-A8B1-48BAA162B988}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF1700F6-2BEF-4864-A8B1-48BAA162B988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF1700F6-2BEF-4864-A8B1-48BAA162B988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA6DC957-BFD2-419C-AF46-212015C5B35B}
+	EndGlobalSection
+EndGlobal
